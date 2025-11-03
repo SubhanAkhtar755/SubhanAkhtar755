@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm SubhanAkhtar755</h1>
 <h3 align="center">A passionate frontend developer 🌍 I specialize in frontend-focused MERN stack development using React.js, Next.js, and Node.js, along with Firebase and MongoDB. From stunning dashboards to complete MERN apps — I deliver top-notch results.from India</h3>
 
+<img align="right" alt="Mern Stack Developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhanakhtar755&label=Profile%20views&color=0e75b6&style=flat" alt="subhanakhtar755" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanakhtar755" alt="subhanakhtar755" /></a> </p>

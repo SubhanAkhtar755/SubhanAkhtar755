@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhanakhtar755" alt="subhanakhtar755" /></a> </p>
+
 
 - 🔭 Check out my [[Portfolio Website]](https://m-subhan-portfolio.web.app)
 

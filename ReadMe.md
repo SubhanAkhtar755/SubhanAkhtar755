@@ -1,6 +1,11 @@
 ![logo](https://github.com/SubhanAkhtar755/SubhanAkhtar755/blob/main/Github-Banner.png)
 <h1 align="center">Hi 👋, I'm SubhanAkhtar</h1>
 <h3 align="center">A passionate frontend developer 🌍 I specialize in frontend-focused MERN stack development using React.js, Next.js, and Node.js, along with Firebase and MongoDB. From stunning dashboards to complete MERN apps — I deliver top-notch results.</h3>
+<h4>🌍 Along with frontend-focused MERN stack development, I also work on utility-based web tools and SEO-focused projects.
+
+✨ One of my active projects is a **blank text generator** designed for creating hidden Unicode characters, empty messages, and invisible text for WhatsApp, Instagram, Facebook, gaming usernames, and formatting purposes.
+
+🔗 Check it here: https://invisiblemsg.com </h4>
 
 <img align="right" alt="Mern Stack Developer" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
 
